@@ -36,3 +36,25 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## boilerplate
+
+### 설치 내용
+- eslint, prettier
+- styled-components
+- start & clear & eslint
+
+### 폴더 구조
+
+| path                     | description                      |    
+|:-------------------------|:---------------------------------|
+| pages                    | route pages                      |
+| public                   | static files                     |
+| styles                   | stylesheets                      |
+| styles/default.css       | default color & default variable |
+| styles/directories/files | jsx style components             |
+| components               | components                       |
+| containers               | containers                       |
+| shared                   | utils & constants                |
+
+
